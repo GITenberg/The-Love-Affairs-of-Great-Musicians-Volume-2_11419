@@ -1,0 +1,31 @@
+_repo: The-Love-Affairs-of-Great-Musicians-Volume-2_11419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Composers -- Biography'
+- GITenberg
+tableOfContents: 'Franz Liszt -- Richard Wagner -- Tschaikovski, the woman-dreader
+  -- The heart of a violinist -- An omnibus chapter: Certain troubadours. Martin Luther.
+  Britishers. Clementi, Hummel, Steibelt. Boieldieu and Grétry. Hérold and Bizet.
+  The passions of Berlioz. Gounod. Divers Italians. The grand Rossini. Bellini. Verdi''s
+  miserere. Various Germans. Franz Schubert -- Robert Schumann and Clara Wieck --
+  Musicians as lovers.'
+title: The Love Affairs of Great Musicians, Volume 2
+url: http://www.gutenberg.org/ebooks/11419
